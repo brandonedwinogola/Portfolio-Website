@@ -27,7 +27,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
-&nbsp;&nbsp;<a href="https://github.com/brandonedwinogola"><img src="https://www.felberpr.com/wp-content/uploads/github-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://github.com/brandonedwinogola"><img src="https://iconmonstr.com/github-1-svg/" width="30"></img></a>
 &nbsp;&nbsp;<a href="https://twitter.com/BrandonOgola"><img src="https://www.felberpr.com/wp-content/uploads/twitter-logo.png" width="30"></img></a>
 
 © 2023 Brandon Ogola
