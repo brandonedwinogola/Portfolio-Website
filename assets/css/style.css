@@ -96,7 +96,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #10c3f0;
 }
 header .navbar ul {
   list-style: none;
@@ -229,7 +229,7 @@ header .navbar ul li a:hover {
 .home .content h2 span {
   font-size: 5rem;
   font-weight: 800;
-  color: #ff7b00;
+  color: #fa0303;
 }
 .home .content p {
   font-size: 2.5rem;
