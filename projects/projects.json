@@ -126,8 +126,8 @@
       "image": "portfolio1",
       "category": "basicweb",
       "links": {
-        "view": "#",
-        "code": "#"
+        "view": "https://branonogolaportfoliowebsite.netlify.app/#work",
+        "code": "https://github.com/brandonedwinogola/Portfolio-Website/tree/main"
       }
     },
     {
