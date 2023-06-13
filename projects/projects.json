@@ -39,7 +39,16 @@
         "code": "#"
       }
     },
-   
+    {
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://insta-mern.vercel.app/",
+      "code: "https://github.com/brandonedwinogola/insta-mern"
+    }
+  },
     {
       "name": "Flipkart MERN",
       "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
